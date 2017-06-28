@@ -2,7 +2,7 @@
     "room": "PEGAVISAO",
     "author": "Vitin",
     "icon": null,
-    "css": "https://puu.sh/wvZfW/5b4355d7e5.txt",
+    "css": "https://rawgit.com/VitinJSC/PEGAVISAO/master/room.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
