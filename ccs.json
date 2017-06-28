@@ -1,0 +1,45 @@
+{
+    "room": "PEGAVISAO",
+    "author": "Vitin",
+    "icon": null,
+    "css": "https://puu.sh/wvZfW/5b4355d7e5.txt",
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot": true,
+        "allowAutojoin": true,
+        "allowAutograb": true,
+        "allowSmartVote": true,
+        "allowEmotes": true,
+        "allowShowingMehs": true,
+        "forceSmartVote": false
+    },
+    "ccc": {
+        "admin": "#42a5dc",
+        "ambassador": "#89be6c",
+        "host": "#db182e",
+        "cohost": "#ff1e37",
+        "manager": "#BE9113",
+        "bouncer": "#05abe4",
+        "rdj": "#7936e8",
+        "subscriber": "#c59840",
+        "silversubscriber": "#8694b2",
+        "friend": "#007a5a",
+        "user": "#007a5a"
+    },
+    "images": {
+        "background": "https://cdn.radiant.dj/rcs/bg/rmBeach.jpg",
+        "playback": null,
+        "admin": null,
+        "ambassador": null,
+        "host": "https://puu.sh/wvXK7/dca8a551d2.png",
+        "cohost": "https://puu.sh/wvXK7/dca8a551d2.png",
+        "manager": "https://puu.sh/wvXMf/5f4a3189eb.png",
+        "bouncer": "https://puu.sh/wvXMY/7fb98f1a6e.png",
+        "rdj": "https://puu.sh/wvXNK/e1a349db23.png",
+        "subscriber": null,
+        "silversubscriber": null
+    },
+    "emotes": {
+    	"emote_name": null
+    }
+}
