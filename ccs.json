@@ -1,6 +1,6 @@
 {
-    "room": "PEGAVISAO",
-    "author": "Vitin",
+    "room": "https://plug.dj/pegavisao",
+    "author": "InXanity",
     "icon": null,
     "css": "https://rawgit.com/VitinJSC/PEGAVISAO/master/room.css",
     "rules": {
