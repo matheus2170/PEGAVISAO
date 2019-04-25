@@ -20,7 +20,7 @@
         "cohost": "#E44F4F",
         "manager": "#BE9113",
         "bouncer": "#05abe4",
-        "rdj": "#9B5CFF",
+        "rdj": "#855bc5",
         "subscriber": "#b78f38",
         "silversubscriber": "#8694b2",
         "friend": "#007a5a",
@@ -35,7 +35,7 @@
         "cohost": "https://puu.sh/BVszH/f0d3132b1e.png",
         "manager": "https://puu.sh/wvXMf/5f4a3189eb.png",
         "bouncer": "https://puu.sh/CNrhA/295d3cc63b.png",
-        "rdj": "https://puu.sh/BVsLI/b35e1c1966.png",
+        "rdj": null,
         "subscriber": null,
         "silversubscriber": null
     },
