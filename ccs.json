@@ -1,6 +1,6 @@
 {
-    "room": "https://plug.dj/pegavisao",
-    "author": "*Vítor *! +:)",
+    "room": "https://plug.dj/shegoshegando",
+    "author": "Sheg0",
     "icon": null,
     "css": "https://rawgit.com/VitinJSC/PEGAVISAO/master/room.css",
     "rules": {
@@ -20,14 +20,14 @@
         "cohost": "#E44F4F",
         "manager": "#BE9113",
         "bouncer": "#05abe4",
-        "rdj": null,
-        "subscriber": null,
-        "silversubscriber": null,
+        "rdj": "#855bc5",
+        "subscriber": "#b78f38",
+        "silversubscriber": "#8694b2",
         "friend": "#007a5a",
         "user": "#007a5a"
     },
     "images": {
-        "background": "https://cdn.radiant.dj/rcs/bg/12.png",
+        "background": "https://cdn.radiant.dj/rcs/bg/14.png",
         "playback": null,
         "admin": null,
         "ambassador": null,
