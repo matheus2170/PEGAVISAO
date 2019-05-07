@@ -21,8 +21,8 @@
         "manager": "#BE9113",
         "bouncer": "#05abe4",
         "rdj": "#855bc5",
-        "subscriber": "#b78f38",
-        "silversubscriber": "#8694b2",
+        "subscriber": null,
+        "silversubscriber": null,
         "friend": "#007a5a",
         "user": "#007a5a"
     },
